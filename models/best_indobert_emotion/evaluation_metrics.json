@@ -1,0 +1,167 @@
+{
+  "model_name": "indobenchmark/indobert-base-p1",
+  "task": "emotion_classification_9_classes",
+  "classes": [
+    "Trust",
+    "Anticipation",
+    "Joy",
+    "Disgust",
+    "Fear",
+    "Sadness",
+    "Anger",
+    "Surprise",
+    "Neutral"
+  ],
+  "label_names": [
+    "Trust",
+    "Anticipation",
+    "Joy",
+    "Disgust",
+    "Fear",
+    "Sadness",
+    "Anger",
+    "Surprise",
+    "Neutral"
+  ],
+  "label2id": {
+    "Trust": 0,
+    "Anticipation": 1,
+    "Joy": 2,
+    "Disgust": 3,
+    "Fear": 4,
+    "Sadness": 5,
+    "Anger": 6,
+    "Surprise": 7,
+    "Neutral": 8
+  },
+  "id2label": {
+    "0": "Trust",
+    "1": "Anticipation",
+    "2": "Joy",
+    "3": "Disgust",
+    "4": "Fear",
+    "5": "Sadness",
+    "6": "Anger",
+    "7": "Surprise",
+    "8": "Neutral"
+  },
+  "emotion_to_sentiment": {
+    "Trust": "Positif",
+    "Anticipation": "Positif",
+    "Joy": "Positif",
+    "Disgust": "Negatif",
+    "Fear": "Negatif",
+    "Sadness": "Negatif",
+    "Anger": "Negatif",
+    "Surprise": "Netral",
+    "Neutral": "Netral"
+  },
+  "accuracy": 0.8806797192463982,
+  "test_accuracy": 0.8806797192463982,
+  "macro_precision": 0.8794761334570237,
+  "macro_recall": 0.8775650886502375,
+  "macro_f1": 0.8782540493928574,
+  "weighted_f1": 0.8803237965402222,
+  "implicit_sentiment_accuracy": 0.9176209826376062,
+  "confusion_matrix": [
+    [
+      311,
+      9,
+      10,
+      2,
+      0,
+      4,
+      6,
+      2,
+      6
+    ],
+    [
+      18,
+      308,
+      6,
+      3,
+      3,
+      5,
+      6,
+      0,
+      1
+    ],
+    [
+      9,
+      5,
+      306,
+      2,
+      3,
+      8,
+      11,
+      1,
+      5
+    ],
+    [
+      4,
+      4,
+      2,
+      145,
+      2,
+      1,
+      8,
+      4,
+      9
+    ],
+    [
+      2,
+      0,
+      0,
+      2,
+      123,
+      0,
+      5,
+      2,
+      5
+    ],
+    [
+      2,
+      3,
+      1,
+      1,
+      1,
+      264,
+      8,
+      4,
+      11
+    ],
+    [
+      12,
+      8,
+      19,
+      3,
+      4,
+      7,
+      282,
+      4,
+      11
+    ],
+    [
+      1,
+      0,
+      2,
+      2,
+      0,
+      1,
+      1,
+      337,
+      0
+    ],
+    [
+      2,
+      3,
+      10,
+      6,
+      6,
+      5,
+      9,
+      1,
+      308
+    ]
+  ]
+}

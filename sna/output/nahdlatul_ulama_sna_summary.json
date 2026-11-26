@@ -1,0 +1,227 @@
+{
+  "topic": "Nahdlatul_Ulama",
+  "total_nodes": 28220,
+  "total_edges": 13641,
+  "top_influencers": [
+    {
+      "rank": 1,
+      "user": "nuoke",
+      "in_degree": 266,
+      "out_degree": 30,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 35.19,
+      "platform": "Facebook",
+      "engagement": 11575
+    },
+    {
+      "rank": 2,
+      "user": "nahdlatululama",
+      "in_degree": 182,
+      "out_degree": 49,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 47.06,
+      "platform": "Twitter",
+      "engagement": 68201
+    },
+    {
+      "rank": 3,
+      "user": "nuonline_id",
+      "in_degree": 164,
+      "out_degree": 70,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": 10.71,
+      "platform": "Threads",
+      "engagement": 308897
+    },
+    {
+      "rank": 4,
+      "user": "taufick_hidayatulloh",
+      "in_degree": 123,
+      "out_degree": 6,
+      "sentiment": "Positif",
+      "emotion": "Anticipation",
+      "nss": 8.0,
+      "platform": "Facebook",
+      "engagement": 4955
+    },
+    {
+      "rank": 5,
+      "user": "nu_banyumas",
+      "in_degree": 87,
+      "out_degree": 2,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 22.73,
+      "platform": "Facebook",
+      "engagement": 4852
+    },
+    {
+      "rank": 6,
+      "user": "nu_online",
+      "in_degree": 81,
+      "out_degree": 50,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": 5.95,
+      "platform": "Twitter",
+      "engagement": 180834
+    },
+    {
+      "rank": 7,
+      "user": "lembagadakwah_pbnu",
+      "in_degree": 70,
+      "out_degree": 0,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": -37.14,
+      "platform": "Mentioned",
+      "engagement": 0
+    },
+    {
+      "rank": 8,
+      "user": "pc_gp_ansor_kab.pemalang",
+      "in_degree": 69,
+      "out_degree": 17,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 50.0,
+      "platform": "Facebook",
+      "engagement": 2040
+    },
+    {
+      "rank": 9,
+      "user": "seputar_kanwil_kemenag_lpg",
+      "in_degree": 68,
+      "out_degree": 0,
+      "sentiment": "Netral",
+      "emotion": "Disgust",
+      "nss": 0.0,
+      "platform": "Facebook",
+      "engagement": 0
+    },
+    {
+      "rank": 10,
+      "user": "grok",
+      "in_degree": 65,
+      "out_degree": 0,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": -20.42,
+      "platform": "Twitter",
+      "engagement": 154
+    },
+    {
+      "rank": 11,
+      "user": "nu_lombok_timur_online",
+      "in_degree": 65,
+      "out_degree": 14,
+      "sentiment": "Positif",
+      "emotion": "Anticipation",
+      "nss": 20.0,
+      "platform": "Facebook",
+      "engagement": 1577
+    },
+    {
+      "rank": 12,
+      "user": "lensa.nu",
+      "in_degree": 65,
+      "out_degree": 31,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": 2.67,
+      "platform": "Threads",
+      "engagement": 30175
+    },
+    {
+      "rank": 13,
+      "user": "tvnu.id",
+      "in_degree": 65,
+      "out_degree": 34,
+      "sentiment": "Positif",
+      "emotion": "Neutral",
+      "nss": 26.03,
+      "platform": "Threads",
+      "engagement": 80014
+    },
+    {
+      "rank": 14,
+      "user": "kang_irul",
+      "in_degree": 64,
+      "out_degree": 1,
+      "sentiment": "Negatif",
+      "emotion": "Anger",
+      "nss": -66.67,
+      "platform": "Facebook",
+      "engagement": 73
+    },
+    {
+      "rank": 15,
+      "user": "mwc_nu_kapetakan",
+      "in_degree": 63,
+      "out_degree": 3,
+      "sentiment": "Positif",
+      "emotion": "Joy",
+      "nss": 25.0,
+      "platform": "Facebook",
+      "engagement": 264
+    },
+    {
+      "rank": 16,
+      "user": "satkorcab_banser_kendal",
+      "in_degree": 59,
+      "out_degree": 20,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 84.85,
+      "platform": "Facebook",
+      "engagement": 3999
+    },
+    {
+      "rank": 17,
+      "user": "liaamal__",
+      "in_degree": 57,
+      "out_degree": 1,
+      "sentiment": "Positif",
+      "emotion": "Anticipation",
+      "nss": 100.0,
+      "platform": "Threads",
+      "engagement": 0
+    },
+    {
+      "rank": 18,
+      "user": "satkorcab_banser_bantul",
+      "in_degree": 54,
+      "out_degree": 5,
+      "sentiment": "Netral",
+      "emotion": "Trust",
+      "nss": 0.0,
+      "platform": "Facebook",
+      "engagement": 1112
+    },
+    {
+      "rank": 19,
+      "user": "dutaparamuda",
+      "in_degree": 53,
+      "out_degree": 0,
+      "sentiment": "Netral",
+      "emotion": "Surprise",
+      "nss": -11.32,
+      "platform": "Mentioned",
+      "engagement": 0
+    },
+    {
+      "rank": 20,
+      "user": "heri_darmanto",
+      "in_degree": 53,
+      "out_degree": 1,
+      "sentiment": "Positif",
+      "emotion": "Joy",
+      "nss": 100.0,
+      "platform": "Facebook",
+      "engagement": 28
+    }
+  ]
+}

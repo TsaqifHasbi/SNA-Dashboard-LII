@@ -1,0 +1,227 @@
+{
+  "topic": "BAZNAS",
+  "total_nodes": 9159,
+  "total_edges": 7811,
+  "top_influencers": [
+    {
+      "rank": 1,
+      "user": "baznasindonesia",
+      "in_degree": 1166,
+      "out_degree": 1226,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 64.88,
+      "platform": "Twitter",
+      "engagement": 245758
+    },
+    {
+      "rank": 2,
+      "user": "beasiswabaznasri",
+      "in_degree": 791,
+      "out_degree": 159,
+      "sentiment": "Positif",
+      "emotion": "Joy",
+      "nss": 77.78,
+      "platform": "Instagram",
+      "engagement": 51637
+    },
+    {
+      "rank": 3,
+      "user": "sodikmudjahid",
+      "in_degree": 781,
+      "out_degree": 43,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 59.46,
+      "platform": "Threads",
+      "engagement": 3725
+    },
+    {
+      "rank": 4,
+      "user": "idy_muzayyad",
+      "in_degree": 405,
+      "out_degree": 27,
+      "sentiment": "Positif",
+      "emotion": "Anticipation",
+      "nss": 70.0,
+      "platform": "Instagram",
+      "engagement": 1252
+    },
+    {
+      "rank": 5,
+      "user": "idy_muzayyad.",
+      "in_degree": 377,
+      "out_degree": 0,
+      "sentiment": "Positif",
+      "emotion": "Joy",
+      "nss": 90.19,
+      "platform": "Mentioned",
+      "engagement": 0
+    },
+    {
+      "rank": 6,
+      "user": "badanamilzakat",
+      "in_degree": 204,
+      "out_degree": 38,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 56.41,
+      "platform": "Facebook",
+      "engagement": 2129
+    },
+    {
+      "rank": 7,
+      "user": "baznas.go.id",
+      "in_degree": 171,
+      "out_degree": 0,
+      "sentiment": "Positif",
+      "emotion": "Joy",
+      "nss": 53.8,
+      "platform": "Mentioned",
+      "engagement": 0
+    },
+    {
+      "rank": 8,
+      "user": "baznas_majalengka",
+      "in_degree": 61,
+      "out_degree": 12,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 50.0,
+      "platform": "Instagram",
+      "engagement": 371
+    },
+    {
+      "rank": 9,
+      "user": "baznas_brebes",
+      "in_degree": 55,
+      "out_degree": 4,
+      "sentiment": "Positif",
+      "emotion": "Anticipation",
+      "nss": 100.0,
+      "platform": "Facebook",
+      "engagement": 3
+    },
+    {
+      "rank": 10,
+      "user": "syaiful_azman",
+      "in_degree": 54,
+      "out_degree": 0,
+      "sentiment": "Netral",
+      "emotion": "Anticipation",
+      "nss": 0.0,
+      "platform": "Facebook",
+      "engagement": 108
+    },
+    {
+      "rank": 11,
+      "user": "baznas_kota_batam",
+      "in_degree": 54,
+      "out_degree": 7,
+      "sentiment": "Positif",
+      "emotion": "Anticipation",
+      "nss": 66.67,
+      "platform": "Facebook",
+      "engagement": 90
+    },
+    {
+      "rank": 12,
+      "user": "baznas_provinsi_riau",
+      "in_degree": 53,
+      "out_degree": 4,
+      "sentiment": "Positif",
+      "emotion": "Anticipation",
+      "nss": 100.0,
+      "platform": "Facebook",
+      "engagement": 159
+    },
+    {
+      "rank": 13,
+      "user": "gmail.com",
+      "in_degree": 52,
+      "out_degree": 0,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 75.0,
+      "platform": "Mentioned",
+      "engagement": 0
+    },
+    {
+      "rank": 14,
+      "user": "baznas_kabupaten_ciamis",
+      "in_degree": 47,
+      "out_degree": 0,
+      "sentiment": "Positif",
+      "emotion": "Anticipation",
+      "nss": 50.0,
+      "platform": "Facebook",
+      "engagement": 52
+    },
+    {
+      "rank": 15,
+      "user": "baznas_kabupaten_pasaman",
+      "in_degree": 47,
+      "out_degree": 6,
+      "sentiment": "Positif",
+      "emotion": "Joy",
+      "nss": 80.0,
+      "platform": "Facebook",
+      "engagement": 184
+    },
+    {
+      "rank": 16,
+      "user": "baznas",
+      "in_degree": 46,
+      "out_degree": 0,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": 12.82,
+      "platform": "News",
+      "engagement": 0
+    },
+    {
+      "rank": 17,
+      "user": "baznas_provinsi_papua",
+      "in_degree": 45,
+      "out_degree": 7,
+      "sentiment": "Positif",
+      "emotion": "Anticipation",
+      "nss": 28.57,
+      "platform": "Facebook",
+      "engagement": 71
+    },
+    {
+      "rank": 18,
+      "user": "tawasuth_id",
+      "in_degree": 45,
+      "out_degree": 1,
+      "sentiment": "Netral",
+      "emotion": "Anger",
+      "nss": -50.0,
+      "platform": "Threads",
+      "engagement": 33
+    },
+    {
+      "rank": 19,
+      "user": "baznas_kabupaten_purbalingga",
+      "in_degree": 44,
+      "out_degree": 8,
+      "sentiment": "Positif",
+      "emotion": "Anticipation",
+      "nss": 75.0,
+      "platform": "Facebook",
+      "engagement": 26
+    },
+    {
+      "rank": 20,
+      "user": "hubaib_faris",
+      "in_degree": 43,
+      "out_degree": 0,
+      "sentiment": "Negatif",
+      "emotion": "Anger",
+      "nss": -33.33,
+      "platform": "Facebook",
+      "engagement": 515
+    }
+  ]
+}

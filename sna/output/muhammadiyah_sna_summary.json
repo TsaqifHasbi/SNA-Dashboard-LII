@@ -1,0 +1,227 @@
+{
+  "topic": "Muhammadiyah",
+  "total_nodes": 18651,
+  "total_edges": 7974,
+  "top_influencers": [
+    {
+      "rank": 1,
+      "user": "muhammadiyah",
+      "in_degree": 547,
+      "out_degree": 107,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": 4.27,
+      "platform": "Twitter",
+      "engagement": 5673
+    },
+    {
+      "rank": 2,
+      "user": "lensamu",
+      "in_degree": 252,
+      "out_degree": 156,
+      "sentiment": "Positif",
+      "emotion": "Neutral",
+      "nss": 45.22,
+      "platform": "TikTok",
+      "engagement": 1154589
+    },
+    {
+      "rank": 3,
+      "user": "tarqum_aziz_jurnalismu",
+      "in_degree": 129,
+      "out_degree": 13,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 48.0,
+      "platform": "Facebook",
+      "engagement": 5067
+    },
+    {
+      "rank": 4,
+      "user": "kacamata_muhammadiyah",
+      "in_degree": 126,
+      "out_degree": 35,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": 9.76,
+      "platform": "Threads",
+      "engagement": 323307
+    },
+    {
+      "rank": 5,
+      "user": "tvmuhammadiyah",
+      "in_degree": 106,
+      "out_degree": 49,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": 10.78,
+      "platform": "Twitter",
+      "engagement": 10217
+    },
+    {
+      "rank": 6,
+      "user": "ppaisyiyahofficial",
+      "in_degree": 101,
+      "out_degree": 17,
+      "sentiment": "Netral",
+      "emotion": "Trust",
+      "nss": 31.82,
+      "platform": "Facebook",
+      "engagement": 7057
+    },
+    {
+      "rank": 7,
+      "user": "prm_ngasinan",
+      "in_degree": 98,
+      "out_degree": 5,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": 15.52,
+      "platform": "Facebook",
+      "engagement": 10906
+    },
+    {
+      "rank": 8,
+      "user": "nahdlatululama",
+      "in_degree": 66,
+      "out_degree": 0,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": -28.79,
+      "platform": "Mentioned",
+      "engagement": 0
+    },
+    {
+      "rank": 9,
+      "user": "al_jeffry",
+      "in_degree": 62,
+      "out_degree": 2,
+      "sentiment": "Positif",
+      "emotion": "Joy",
+      "nss": 33.33,
+      "platform": "Facebook",
+      "engagement": 105
+    },
+    {
+      "rank": 10,
+      "user": "paudaisyiyah.nongsa",
+      "in_degree": 53,
+      "out_degree": 4,
+      "sentiment": "Positif",
+      "emotion": "Joy",
+      "nss": 100.0,
+      "platform": "Facebook",
+      "engagement": 169
+    },
+    {
+      "rank": 11,
+      "user": "gmail.com",
+      "in_degree": 53,
+      "out_degree": 0,
+      "sentiment": "Positif",
+      "emotion": "Neutral",
+      "nss": 39.62,
+      "platform": "Mentioned",
+      "engagement": 0
+    },
+    {
+      "rank": 12,
+      "user": "muipusat",
+      "in_degree": 52,
+      "out_degree": 1,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 100.0,
+      "platform": "TikTok",
+      "engagement": 63
+    },
+    {
+      "rank": 13,
+      "user": "info_purbalingga",
+      "in_degree": 50,
+      "out_degree": 0,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": 0.0,
+      "platform": "Facebook",
+      "engagement": 0
+    },
+    {
+      "rank": 14,
+      "user": "muhammadiyahkudus",
+      "in_degree": 50,
+      "out_degree": 6,
+      "sentiment": "Positif",
+      "emotion": "Joy",
+      "nss": 66.67,
+      "platform": "Threads",
+      "engagement": 1134
+    },
+    {
+      "rank": 15,
+      "user": "smpmuhammadiyah_pagaralam",
+      "in_degree": 45,
+      "out_degree": 2,
+      "sentiment": "Positif",
+      "emotion": "Joy",
+      "nss": 100.0,
+      "platform": "Facebook",
+      "engagement": 263
+    },
+    {
+      "rank": 16,
+      "user": "muhammadiyah_jateng",
+      "in_degree": 44,
+      "out_degree": 1,
+      "sentiment": "Positif",
+      "emotion": "Neutral",
+      "nss": 25.0,
+      "platform": "Facebook",
+      "engagement": 1416
+    },
+    {
+      "rank": 17,
+      "user": "sejarah_islam",
+      "in_degree": 43,
+      "out_degree": 0,
+      "sentiment": "Positif",
+      "emotion": "Joy",
+      "nss": 100.0,
+      "platform": "Facebook",
+      "engagement": 7
+    },
+    {
+      "rank": 18,
+      "user": "umyogya",
+      "in_degree": 43,
+      "out_degree": 18,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 100.0,
+      "platform": "Threads",
+      "engagement": 61359
+    },
+    {
+      "rank": 19,
+      "user": "smpmuh3medan",
+      "in_degree": 41,
+      "out_degree": 2,
+      "sentiment": "Negatif",
+      "emotion": "Anger",
+      "nss": -100.0,
+      "platform": "Instagram",
+      "engagement": 149
+    },
+    {
+      "rank": 20,
+      "user": "ninin_karlina",
+      "in_degree": 40,
+      "out_degree": 1,
+      "sentiment": "Netral",
+      "emotion": "Sadness",
+      "nss": 33.33,
+      "platform": "Facebook",
+      "engagement": 638
+    }
+  ]
+}
