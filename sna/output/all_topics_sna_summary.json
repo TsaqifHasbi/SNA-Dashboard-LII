@@ -1,0 +1,226 @@
+{
+  "total_nodes": 43780,
+  "total_edges": 21805,
+  "top_influencers": [
+    {
+      "rank": 1,
+      "user": "gusazkakediri",
+      "in_degree": 1286,
+      "out_degree": 0,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": -1.56,
+      "platform": "Mentioned",
+      "engagement": 0
+    },
+    {
+      "rank": 2,
+      "user": "baznasindonesia",
+      "in_degree": 991,
+      "out_degree": 1055,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 83.87,
+      "platform": "Twitter",
+      "engagement": 151350
+    },
+    {
+      "rank": 3,
+      "user": "beasiswabaznasri",
+      "in_degree": 732,
+      "out_degree": 140,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 82.46,
+      "platform": "Instagram",
+      "engagement": 16662
+    },
+    {
+      "rank": 4,
+      "user": "sodikmudjahid",
+      "in_degree": 702,
+      "out_degree": 36,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 82.35,
+      "platform": "Instagram",
+      "engagement": 2777
+    },
+    {
+      "rank": 5,
+      "user": "idy_muzayyad",
+      "in_degree": 365,
+      "out_degree": 28,
+      "sentiment": "Positif",
+      "emotion": "Anticipation",
+      "nss": 72.73,
+      "platform": "Threads",
+      "engagement": 1399
+    },
+    {
+      "rank": 6,
+      "user": "idy_muzayyad.",
+      "in_degree": 348,
+      "out_degree": 0,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 90.8,
+      "platform": "Mentioned",
+      "engagement": 0
+    },
+    {
+      "rank": 7,
+      "user": "nuoke",
+      "in_degree": 239,
+      "out_degree": 22,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 32.56,
+      "platform": "Facebook",
+      "engagement": 10013
+    },
+    {
+      "rank": 8,
+      "user": "badanamilzakat",
+      "in_degree": 150,
+      "out_degree": 0,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": 10.0,
+      "platform": "Mentioned",
+      "engagement": 0
+    },
+    {
+      "rank": 9,
+      "user": "nuonline_id",
+      "in_degree": 140,
+      "out_degree": 29,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": 16.67,
+      "platform": "Threads",
+      "engagement": 3672
+    },
+    {
+      "rank": 10,
+      "user": "ryu_reall",
+      "in_degree": 117,
+      "out_degree": 1,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": -2.52,
+      "platform": "Threads",
+      "engagement": 19635
+    },
+    {
+      "rank": 11,
+      "user": "grok",
+      "in_degree": 93,
+      "out_degree": 0,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": -11.85,
+      "platform": "Twitter",
+      "engagement": 81
+    },
+    {
+      "rank": 12,
+      "user": "nu_banyumas",
+      "in_degree": 81,
+      "out_degree": 4,
+      "sentiment": "Negatif",
+      "emotion": "Trust",
+      "nss": -5.26,
+      "platform": "Facebook",
+      "engagement": 5437
+    },
+    {
+      "rank": 13,
+      "user": "nu_online",
+      "in_degree": 78,
+      "out_degree": 22,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": 1.07,
+      "platform": "Twitter",
+      "engagement": 97301
+    },
+    {
+      "rank": 14,
+      "user": "baznas.go.id",
+      "in_degree": 72,
+      "out_degree": 0,
+      "sentiment": "Positif",
+      "emotion": "Joy",
+      "nss": 56.94,
+      "platform": "Mentioned",
+      "engagement": 0
+    },
+    {
+      "rank": 15,
+      "user": "nahdlatululama",
+      "in_degree": 69,
+      "out_degree": 4,
+      "sentiment": "Netral",
+      "emotion": "Neutral",
+      "nss": 18.18,
+      "platform": "Twitter",
+      "engagement": 304
+    },
+    {
+      "rank": 16,
+      "user": "desa_smart",
+      "in_degree": 68,
+      "out_degree": 1,
+      "sentiment": "Positif",
+      "emotion": "Trust",
+      "nss": 0.0,
+      "platform": "Facebook",
+      "engagement": 1878
+    },
+    {
+      "rank": 17,
+      "user": "taufick_hidayatulloh",
+      "in_degree": 66,
+      "out_degree": 4,
+      "sentiment": "Positif",
+      "emotion": "Anticipation",
+      "nss": 46.67,
+      "platform": "Facebook",
+      "engagement": 1450
+    },
+    {
+      "rank": 18,
+      "user": "heri_darmanto",
+      "in_degree": 66,
+      "out_degree": 1,
+      "sentiment": "Positif",
+      "emotion": "Joy",
+      "nss": 100.0,
+      "platform": "Facebook",
+      "engagement": 28
+    },
+    {
+      "rank": 19,
+      "user": "sorotan",
+      "in_degree": 66,
+      "out_degree": 0,
+      "sentiment": "Positif",
+      "emotion": "Neutral",
+      "nss": 34.85,
+      "platform": "Mentioned",
+      "engagement": 0
+    },
+    {
+      "rank": 20,
+      "user": "gmail.com",
+      "in_degree": 66,
+      "out_degree": 0,
+      "sentiment": "Netral",
+      "emotion": "Anger",
+      "nss": 33.33,
+      "platform": "Mentioned",
+      "engagement": 0
+    }
+  ]
+}

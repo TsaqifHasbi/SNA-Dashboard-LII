@@ -1,0 +1,67 @@
+# Python Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables & Secrets
+.env*
+!.env.example
+.streamlit/secrets.toml
+accounts.db
+
+# Local Scrapers & Legacy Secret Scripts
+colab_cells/
+tools/*
+!tools/README.md
+!tools/cleaning_data.py
+!tools/relevance_filter.py
+!tools/step1_sample_gold_standard.py
+!tools/step2_gemini_annotation.py
+
+# Notebooks (allow verified LII training notebook)
+*.ipynb
+!IndoBERT_SNA_Training_Pipeline_LII.ipynb
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*.class
+*.pyc
+
+# IDE / Editor & OS Files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
+.DS_Store
+scratch/
+
+# Large Model Weights & Archives (> 100 MB; evaluation metrics & plots remain tracked)
+*.safetensors
+*.bin
+*.pt
+*.zip
+*.tar.gz
+*.exe
+
+# Raw Scraped Data & Heavy Corpus Files
+ScrapeData/
+ScrapeData_TA_Elektrifikasi/
+*.csv
+data/*.parquet
+
+# Explicitly Keep Essential Runtime & Reference Files for Dashboard & SNA
+!data/enriched_corpus_for_sna.parquet
+!data/gold_standard_sample_1000.csv
+!data/gold_standard_annotated_1000.csv
+!data/*.json
+data/registered_users.json
+data/user_credentials.json
+data/active_sessions.json
+!sna/output/*.gexf
+!sna/output/*.json
+!models/**/evaluation_metrics.json
+!models/**/confusion_matrix*.png
+!models/**/config.json
+!models/**/tokenizer*.json
